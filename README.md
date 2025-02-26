@@ -46,7 +46,7 @@ print("Value of b:",b)
 
 
 plt.scatter(x,y)
-plt.plot(x,yi,"yellow")
+plt.plot(x,yi,color="yellow")
 plt.show()
 
 ```
